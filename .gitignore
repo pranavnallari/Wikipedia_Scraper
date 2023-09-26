@@ -1,0 +1,6 @@
+settings.py
+chromedriver-win64
+.seleniumenv
+requirements.txt
+.idea
+config.env
